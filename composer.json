@@ -1,9 +1,13 @@
 {
-    "name": "weidner/goutte",
+    "name": "linkthrow/goutte",
     "description": "Laravel 5 package for Gouette, a simple PHP Web Scraper",
     "license": "MIT",
-    "keywords": ["goutte", "laravel"],
+    "keywords": ["linkthrow", "laravel"],
     "authors": [
+        {
+            "name": "Hussan Choudhry",
+            "email": "hussan@uselinkthrow.com"
+        },
         {
             "name": "Daniel Weidner",
             "email": "hallo@danielweidner.de"
